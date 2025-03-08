@@ -40,18 +40,18 @@ short_bio: >-
   Looking ahead, I believe that achieving full robotic assistance requires not only manipulators but also mobility. My future direction is to develop <strong>mobile manipulators</strong> that can navigate and interact in human-centered environments.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/minseo.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Ewha Womans University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/photos/symbol-mark.png
   position: >- 
     B.S. in Computer Science and Engineering
   date: Sep. 2024 - present
 - name: Ewha Womans University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/photos/symbol-mark.png
   position: >- 
     B.S. in Computer Science and Engineering & Mathematics <br/> 
     Graduated with Honors, Magna Cum Laude
@@ -59,11 +59,11 @@ education:
 
 experience:
 - name: Ewha Womans University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/photos/symbol-mark.png
   position: Research Assistant
   date: Dec. 2022 - Aug. 2024
 - name: Ewha Womans University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/photos/symbol-mark.png
   position: Undergraduate Researcher
   date: Dec. 2022 - Aug. 2024
 
