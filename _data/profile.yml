@@ -21,21 +21,25 @@ orcid: 0009-0001-9766-1870
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    <strong>About Me</strong>
+    <strong>About Me</strong> <br/><br/>
     I am currently a master’s student in <a href="http://graphics.ewha.ac.kr" target="_blank">Computer Graphics Lab</a> at 
     <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University, Korea</a>, advised by  
-    <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>. 
-    My research interests lie in <strong>robotics</strong>.
+    <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>.
+    <br/>
+    My research focuses on <strong>robotics</strong>, particularly in task and motion planning.
+    <br/>
     I received my B.S. with honors in the Department of Computer Science and Engineering  
     and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024.  
   </p>
   <p>
-  <strong>Research Goal</strong>  
+  <strong>Research Goal</strong><br/><br/>
   My ultimate goal is to develop <strong>fully automated robotic systems</strong> that integrate with humans and operate effectively in diverse real-world environments.  
-  <br>
-  To achieve this, I focus on <strong>task and motion planning</strong>, bridging high-level decision-making with low-level motion execution while addressing real-world deployment challenges. I leverage foundation models, particularly LLMs and VLMs, to enhance generalization and human-robot interaction. 
-  <br>
-  Moreover, to enable robots to assist humans in daily life, I work on various tasks, including cloth manipulation and tabletop service, utilizing bimanual manipulators. Looking ahead, I believe that achieving full robotic assistance requires not only manipulators but also mobility. My future direction is to develop <strong>mobile manipulators</strong> that can navigate and interact in human-centered environments.
+  <br/><br/>
+  To achieve this, I focus on <strong>task and motion planning</strong>, bridging high-level decision-making with low-level motion execution while addressing real-world deployment challenges. I also leverage foundation models, particularly LLMs and VLMs, to enhance generalization and human-robot interaction. 
+  <br/>
+  Moreover, to enable robots to assist humans in daily life, I work on various tasks, including cloth manipulation and tabletop service, utilizing bimanual manipulators. 
+  <br/><br/>
+  Looking ahead, I believe that achieving full robotic assistance requires not only manipulators but also mobility. My future direction is to develop <strong>mobile manipulators</strong> that can navigate and interact in human-centered environments.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -65,10 +69,10 @@ education:
 #   position: Undergraduate Researcher
 #   date: Dec. 2022 - Aug. 2024
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Dean’s List (7 semesters)
-  date: 2020 - 2024
-- name: Admissions Scholarship, full tuition for four years (Admitted as the top-ranked student)
-  date: 2020 - 2024
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Dean’s List (7 semesters)
+#   date: 2020 - 2024
+# - name: Admissions Scholarship, full tuition for four years (Admitted as the top-ranked student)
+#   date: 2020 - 2024
