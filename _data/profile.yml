@@ -22,22 +22,20 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     <strong>ABOUT ME</strong> <br/>
-    I am currently a master’s student in <a href="http://graphics.ewha.ac.kr" target="_blank">Computer Graphics Lab</a> at 
+    I am currently a master’s student specializing in <strong>robotics</strong> at the <a href="http://graphics.ewha.ac.kr" target="_blank">Computer Graphics Lab</a>,  
     <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University, Korea</a>, advised by  
     <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>.
-    My research focuses on <strong>robotics</strong>, particularly in task and motion planning.
     <br/>
     I received my B.S. with honors in the Department of Computer Science and Engineering  
-    and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024.  
+    and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
   </p>
   <p>
   <strong>RESEARCH GOAL</strong><br/>
-  My ultimate goal is to develop <strong>fully automated robotic systems</strong> that integrate with humans and operate effectively in diverse real-world environments.  
+  My ultimate goal is to develop <strong>intelligent robotic systems</strong> that interact with humans and operate effectively in diverse real-world environments.  
   <br/>
-  To achieve this, I focus on <strong>task and motion planning</strong>, leveraging foundation models like LLMs and VLMs to enhance generalizability and address real-world deployment challenges. 
-  Moreover, I work on various tasks to enable robots to assist humans in daily life, including cloth manipulation and tabletop service with bimanual manipulators. 
-  <br/>
-  Looking ahead, I believe that achieving full robotic assistance requires not only manipulators but also mobility. My future direction is to develop <strong>mobile manipulators</strong> that can navigate and interact in human-centered environments.
+  To achieve this, I focus on <strong>Task and Motion Planning (TAMP)</strong>, leveraging foundation models such as LLMs and VLMs to enhance generalization and tackle real-world deployment challenges. 
+  I also work on bimanual manipulation for tasks like cloth manipulation and tabletop service, enabling robots to assist in daily life.
+  Looking ahead, I aim to optimize TAMP for efficient operation within limited resources and time.
   </p>
 
 portrait_url: /assets/images/photos/minseo.jpg
@@ -57,20 +55,26 @@ education:
     Graduated with Honors, Magna Cum Laude
   date: Mar. 2020 - Aug. 2024
 
-experience:
-- name: Ewha Womans University
-  logo: /assets/images/photos/symbol-mark.png
-  position: Research Assistant
-  date: Dec. 2022 - Aug. 2024
-- name: Ewha Womans University
-  logo: /assets/images/photos/symbol-mark.png
-  position: Undergraduate Researcher
-  date: Dec. 2022 - Aug. 2024
+# experience:
+# - name: Ewha Womans University
+#   logo: /assets/images/photos/symbol-mark.png
+#   position: Research Assistant
+#   date: Sep. 2024 - Present
+# - name: Ewha Womans University
+#   logo: /assets/images/photos/symbol-mark.png
+#   position: Undergraduate Researcher
+#   date: Dec. 2022 - Aug. 2024
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Dean’s List (7 semesters)
-#   date: 2020 - 2024
-# - name: Admissions Scholarship, full tuition for four years (Admitted as the top-ranked student)
-#   date: 2020 - 2024
+awards:
+- name: Graduate Admissions Scholarship, Full tuition for one year
+  date: 2024 - 2025
+- name: 3rd Place, ICRA 2024 Cloth Competition (9th RGMC)
+  date: 2024
+- name: Silver Prize, Ewha Engineering Capstone Design Contest
+  date: 2023
+- name: 3rd Place, Undergrad Research Paper Contest, Autumn Annual Conference of IEIE
+  date: 2023
+- name: Dean’s List
+  date: 2020 - 2024
+- name: Undergraduate Admissions Scholarship, Full tuition for four years (Admitted as the top-ranked student)
+  date: 2020 - 2024
