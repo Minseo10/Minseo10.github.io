@@ -10,7 +10,7 @@ authors:
   - Sooyoung Kwon*
   - Minseo Kwon*
   - Hyojin Kim*
-  - Jahyeong Sim#
+  - Jaehyeong Sim#
 links:
   Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11701260
   Code: https://github.com/Transformer04/ToMato
