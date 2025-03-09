@@ -3,7 +3,7 @@ body {
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
-    color: #777;
+    color: #262626;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 a {
-  color: #494949;
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -20,7 +20,7 @@ a {
 a:hover, a:active, a:focus {
   color: black;
   outline: none;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .text-profile-position {
