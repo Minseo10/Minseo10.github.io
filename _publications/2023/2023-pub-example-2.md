@@ -1,15 +1,13 @@
 ---
 title:          "ToMato: Accelerating ViT via Token Merging"
-date:           2023
+date:           2023-12-05 00:01:00 +0800
 selected:       false
 pub:            "The Institute of Electronics and Information Engineers Conference (IEIE)"
 pub_date:       "2023"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
+  ViT(Vision Transformer) shows outstanding performance in various vision tasks by splitting images into patches and passing them through transformer blocks. However, the large model size and computational cost of ViT result in high inference latency and hindered acceleration. To accelerate ViT efficiently, we introduce ToMato(Token Merging at Once), a simple framework that recursively merges tokens by comparing similarity to adjacent tokens at the first transformer block. Applying the ToMato to DeiTbase model, we find that this reduces latency by 22.19% while maintaining high Top-1 accuracy of 80.14%. 
 
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/tomato.png
 authors:
   - Sooyoung Kwon*
   - Minseo Kwon*
