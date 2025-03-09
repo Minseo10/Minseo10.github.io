@@ -1,8 +1,8 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
+title:          "ToMato: Accelerating ViT via Token Merging"
+date:           2023
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "The Institute of Electronics and Information Engineers Conference (IEIE)"
 pub_date:       "2023"
 abstract: >-
   Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
@@ -11,13 +11,11 @@ abstract: >-
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Sooyoung Kwon*
+  - Minseo Kwon*
+  - Hyojin Kim*
+  - Jahyeong Sim#
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11701260
+  Code: https://github.com/Transformer04/ToMato
 ---
