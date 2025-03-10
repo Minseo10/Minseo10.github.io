@@ -26,7 +26,7 @@ short_bio: >-
     <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University, Korea</a>, advised by  
     <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>.
     <br/>
-    I received my B.S. with honors in the Department of Computer Science and Engineering  
+    I received my B.S. with honors in the Department of CSE (Computer Science and Engineering)  
     and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
   </p>
   <p>
@@ -51,7 +51,7 @@ education:
 - name: Ewha Womans University
   logo: /assets/images/photos/symbol-mark.png
   position: >- 
-    B.S. in Computer Science and Engineering & Mathematics <br/> 
+    B.S. in Computer Science and Engineering, Mathematics <br/> 
     Graduated with Honors, Magna Cum Laude
   date: Mar. 2020 - Aug. 2024
 
