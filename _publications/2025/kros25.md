@@ -11,6 +11,6 @@ authors:
   - Young J. Kim#
 links:
   Webpage: http://graphics.ewha.ac.kr/LLMTAMP/
-  Paper: https://doi.org/10.7746/jkros.2025.20.1.052
+  Paper: http://graphics.ewha.ac.kr/LLMTAMP/KROS_2025.pdf
   Video: https://youtu.be/gHyNWVFqsnc?si=vCTH3opGoPUkW3Up
 ---
