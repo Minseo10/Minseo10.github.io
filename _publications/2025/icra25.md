@@ -9,9 +9,10 @@ cover:          /assets/images/covers/icra25_cover.png
 authors:
   - Minseo Kwon
   - Yaesol Kim
-  - Young J. Kim#
+  - Young J. Kim
 links:
   Webpage: http://graphics.ewha.ac.kr/LLMTAMP/
   Paper: https://arxiv.org/abs/2409.19250
   Video: https://youtu.be/txjiPhpcqWQ
+  Code: https://github.com/Minseo10/llm_tp
 ---
