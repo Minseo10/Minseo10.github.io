@@ -25,16 +25,11 @@ short_bio: >-
     Hi! I’m currently a master’s student in <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University, Korea</a>, Department of Computer Science and Engineering.
     I am a robotics researcher at the <a href="http://graphics.ewha.ac.kr" target="_blank">Computer Graphics Lab</a>, advised by <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>.
     <br/>
-    I received my B.S. with honors in the Department of CSE (Computer Science and Engineering)  
-    and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
+    I received my B.S. with honors in Computer Science and Engineering and Mathematics (double major) from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
   </p>
   <p>
-  <strong>RESEARCH GOAL</strong><br/>
-  My ultimate goal is to develop <strong>intelligent robotic systems</strong> that interact with humans and operate effectively in diverse real-world environments.  
-  <br/>
-  To achieve this, I focus on <strong>Task and Motion Planning (TAMP)</strong>, leveraging foundation models such as LLMs and VLMs to enhance generalization and tackle real-world deployment challenges. 
-  I also work on bimanual manipulation for tasks like cloth manipulation and tabletop service, enabling robots to assist in daily life.
-  Looking ahead, I aim to optimize TAMP for efficient operation within limited resources and time.
+  <strong>RESEARCH</strong><br/>
+  I develop <strong>Task and Motion Planning (TAMP)</strong> systems, leveraging foundation models such as LLMs/VLMs to enhance generalization and tackle real-world deployment challenges. 
   </p>
 
 portrait_url: /assets/images/photos/minseo.jpg
