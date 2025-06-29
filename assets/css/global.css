@@ -13,13 +13,13 @@ h1, h2, h3, h4, h5, h6,
 }
 
 a {
-  color: #0000ff;
+  color: #1a0dab;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #0000ff;
+  color: #1a0dab;
   outline: none;
   text-decoration: underline;
 }
