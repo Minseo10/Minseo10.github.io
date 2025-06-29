@@ -8,7 +8,7 @@ abstract: >-
 cover:          /assets/images/covers/kros25.png
 authors:
   - Minseo Kwon
-  - Young J. Kim#
+  - Young J. Kim
 links:
   Webpage: http://graphics.ewha.ac.kr/LLMTAMP/
   Paper: http://graphics.ewha.ac.kr/LLMTAMP/KROS_2025.pdf
