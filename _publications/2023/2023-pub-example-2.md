@@ -12,6 +12,6 @@ authors:
   - Hyojin Kim*
   - Jaehyeong Sim
 links:
-  Paper: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11701260
+  Paper: /assets/ToMato Token Merging을 이용한 Vision Transformer 가속화.pdf
   Code: https://github.com/Transformer04/ToMato
 ---
