@@ -1,28 +1,37 @@
 @charset "utf-8";
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
-    color: #454545;
 }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
-    color: #000000;
 }
 
-a {
-  color: #3071a9;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
+.card {
+    border-radius: 0.8rem!important;
 }
-a:hover, a:active, a:focus {
-  color: #3071a9;
-  outline: none;
-  text-decoration: underline;
+
+.card-img-overlay {
+    border-radius: 0.8rem!important;
 }
+
+.rounded-xl {
+    border-radius: 0.8rem!important;
+}
+
+.rounded-xl-bottom {
+    border-bottom-right-radius: 0.8rem !important;
+    border-bottom-left-radius: 0.8rem !important;
+}
+
+.rounded-xl-top {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
 
 .text-profile-position {
     font-weight: 400;
@@ -80,4 +89,3 @@ div.lazy {
 .email-text {
     font-family: Courier, monospace;
 }
-
