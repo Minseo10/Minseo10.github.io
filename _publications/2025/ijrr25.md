@@ -5,7 +5,7 @@ selected:       true
 pub:            "The International Journal of Robotics Research (IJRR), Under Review"
 pub_date:       "2025"
 abstract: >-
-cover:          /assets/images/covers/icra25_cover.png
+cover:          /assets/images/covers/cloth_competition.png
 authors:
   - Many Authors
 links:
