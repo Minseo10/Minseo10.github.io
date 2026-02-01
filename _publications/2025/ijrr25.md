@@ -2,7 +2,7 @@
 title:          "A Dataset and Benchmark for Robotic Cloth Unfolding Grasp Selection: The ICRA 2024 Cloth Competition"
 date:           2025-8-22 00:01:00 +0800
 selected:       true
-pub:            "The International Journal of Robotics Research (IJRR), Accepted"
+pub:            "The International Journal of Robotics Research (IJRR)"
 pub_date:       "2025"
 abstract: >-
 cover:          /assets/images/covers/cloth_competition.png
