@@ -1,9 +1,9 @@
 ---
 title:          "Kinodynamic Task and Motion Planning using VLM-guided and Interleaved Sampling"
-date:           2025-10-30 00:01:00 +0800
+date:           2026-6-1 00:01:00 +0800
 selected:       true
-pub:            "IEEE International Conference on Robotics and Automation (ICRA), Accepted"
-pub_date:       "2026"
+pub:            "IEEE International Conference on Robotics and Automation (ICRA)"
+pub_date:       "2026 (Accepted)"
 abstract: >-
 cover:          /assets/images/covers/icra26_cover.png
 authors:
