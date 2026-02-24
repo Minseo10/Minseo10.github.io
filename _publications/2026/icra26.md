@@ -10,5 +10,7 @@ authors:
   - Minseo Kwon
   - Young J. Kim
 links:
+  Webpage: https://graphics.ewha.ac.kr/KinodynamicTAMP/
   Paper: https://arxiv.org/abs/2510.26139
+  Video: https://youtu.be/fkhVOFIxxlQ?si=dvTDN6XRUbHFEXvV
 ---
