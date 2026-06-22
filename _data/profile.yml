@@ -5,7 +5,7 @@ navbar_name: "Minseo Kwon"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: M.S Student, Ewha Womans University, Dept. of Computer Science and Eng.
+- name: M.S. Student, Ewha Womans University, Dept. of Computer Science and Eng.
 
 email: "minseokwon00@gmail.com"
 cv_link: /assets/CV_MinseoKwon.pdf
@@ -23,14 +23,14 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     <strong>ABOUT ME</strong> <br/>
-    Hi! I’m a master’s student in <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University, Korea</a>, Department of Computer Science and Engineering.
-    I am a robotics researcher at the <a href="http://graphics.ewha.ac.kr" target="_blank">Computer Graphics Lab</a>, advised by <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Dr. Young J. Kim</a>.
+    Hi! I'm an incoming PhD Student at <a href="https://ece.princeton.edu/" target="_blank">Princeton ECE</a>, advised by <a href="https://tomsilver.github.io/" target="_blank">Prof. Tom Silver</a>.
     <br/>
-    I received my B.S. with honors in Computer Science and Engineering and Mathematics (double major) from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
+    I received my M.S. in Computer Science and Engineering (CSE) at <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2026, advised by <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Prof. Young J. Kim</a>.
+    I received my B.S. with honors in CSE and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 
   </p>
   <p>
   <strong>RESEARCH</strong><br/>
-  My current research focuses on <strong>Task and Motion Planning (TAMP)</strong> with LLMs/VLMs, aiming at better generalization and real-world applicability. I am also interested in learning-based TAMP, as well as broader topics in robotic manipulation and learning.
+  My research focuses on <strong>Task and Motion Planning (TAMP)</strong> for robots, aiming at better generalization and real-world applicability. I am also interested in learning-based TAMP, as well as broader topics in robotic manipulation and human-robot interaction.
   </p>
 
 portrait_url: /assets/images/photos/profile_half.png
