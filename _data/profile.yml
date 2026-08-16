@@ -5,7 +5,7 @@ navbar_name: "Minseo Kwon"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: M.S. Student, Ewha Womans University, Dept. of Computer Science and Eng.
+- name: Ph.D. Student, Princeton University, Dept. of Electrical and Computer Engineering.
 
 email: "minseokwon00@gmail.com"
 cv_link: /assets/CV_MinseoKwon.pdf
@@ -23,7 +23,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     <strong>ABOUT ME</strong> <br/>
-    Hi! I'm an incoming PhD Student at <a href="https://ece.princeton.edu/" target="_blank">Princeton ECE</a>, advised by <a href="https://tomsilver.github.io/" target="_blank">Prof. Tom Silver</a>.
+    Hi! I'm a PhD Student at <a href="https://ece.princeton.edu/" target="_blank">Princeton ECE</a> , advised by <a href="https://tomsilver.github.io/" target="_blank">Prof. Tom Silver</a>.
     <br/>
     I received my M.S. in Computer Science and Engineering (CSE) at <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2026, advised by <a href="http://home.ewha.ac.kr/~kimy/" target="_blank">Prof. Young J. Kim</a>.
     I received my B.S. with honors in CSE and Mathematics from <a href="http://ewha.ac.kr" target="_blank">Ewha Womans University</a> in 2024. 

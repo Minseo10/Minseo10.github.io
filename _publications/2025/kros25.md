@@ -1,7 +1,7 @@
 ---
 title:          "Neuro-Symbolic Task Replanning using Large Language Models"
 date:           2025-2-13 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The Journal of Korea Robotics Society (KROS)"
 pub_date:       "2025"
 abstract: >-
