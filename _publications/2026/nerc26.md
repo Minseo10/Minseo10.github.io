@@ -1,7 +1,7 @@
 ---
 title:          "ABLE: Anticipating Belief Updates for Learning Efficient TAMP"
 date:           2026-10-1 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Northeast Robotics Colloquium (NERC)"
 pub_date:       "2026"
 pub_last:       "(Poster, ongoing work)"
