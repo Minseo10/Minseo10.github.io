@@ -30,7 +30,7 @@ short_bio: >-
   </p>
   <p>
   <strong>RESEARCH</strong><br/>
-  My research focuses on <strong>Task and Motion Planning (TAMP)</strong> for robots, aiming at better generalization and real-world applicability. I am also interested in learning-based TAMP, as well as broader topics in robotic manipulation and human-robot interaction.
+  My research focuses on <strong>learning to plan</strong> for robots, especially under the uncertainty that arises from varying physical properties of environments and from different users. I am interested in building robots that learn the uncertainty and diversity in human-involved tasks, so that they can adapt their planning to each person and environment.
   </p>
 
 portrait_url: /assets/images/photos/profile_half.png
