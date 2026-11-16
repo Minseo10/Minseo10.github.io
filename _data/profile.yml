@@ -30,7 +30,7 @@ short_bio: >-
   </p>
   <p>
   <strong>RESEARCH</strong><br/>
-  My research focuses on <strong>learning to plan</strong> for robots, especially under the uncertainty that arises from varying physical properties of environments and from different users. I am interested in building robots that learn the uncertainty and diversity in human-involved tasks, so that they can adapt their planning to each person and environment.
+  My research focuses on <strong>learning to plan</strong> for robots, especially under the uncertainty that arises from varying physical properties of environments and from different users. I am interested in building robots that learn the uncertainty and diversity in human-involved tasks, so that they can adapt their planning to each person and environment. I am also interested in <strong>agentic approaches</strong> to robot planning.
   </p>
 
 portrait_url: /assets/images/photos/profile_half.png
